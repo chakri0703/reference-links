@@ -30,3 +30,7 @@ sudo apt update
 sudo apt install jenkins
 sudo systemctl start jenkins
 sudo systemctl status jenkins
+
+
+jenkins for nodejs
+https://blog.couchbase.com/create-continuous-deployment-pipeline-nodejs-jenkins/
